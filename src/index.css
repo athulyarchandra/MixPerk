@@ -1,0 +1,19 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Bitter", serif;
+  
+}
+#navhead{
+  font-family: "Playwrite GB S", serif;
+  color: black;
+  font-size: x-large;
+  
+}
+#spanhead{
+  font-family: "Playwrite FR Trad", serif;
+  color: rgb(146, 27, 27);
+  font-size:xx-large;
+
+}
